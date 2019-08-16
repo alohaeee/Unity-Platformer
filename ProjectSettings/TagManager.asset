@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - BackGround
+  - InvizWall
+  - Water
+  - PauseMenuButtons
+  - Coin
+  - Enemy
+  - Chest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2607552029
+    locked: 0
+  - name: Grass
+    uniqueID: 1447365297
+    locked: 0
+  - name: Stuffs
+    uniqueID: 3335559699
+    locked: 0
+  - name: Objects
+    uniqueID: 1385075807
+    locked: 0
+  - name: UI
+    uniqueID: 965402565
+    locked: 0
+  - name: Pause Menu
+    uniqueID: 2471820863
+    locked: 0
